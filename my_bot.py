@@ -6,10 +6,10 @@ import openai
 
 load_dotenv()
 TOKEN = os.getenv("TOKEN")
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+GROQ_API_KEY = os.getenv("groq_api_key")
 
 # Connect with OpenAI
-openai.api_key = OPENAI_API_KEY
+openai.api_key = GROQ_API_KEY
 
 # print("Ok")
 
