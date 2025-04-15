@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Telagram-Bot-using-GenAI
 
 
@@ -63,3 +64,6 @@ TELEGRAM_BOT_TOKEN=xxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 [Link](https://drive.google.com/drive/folders/1JlvnNZczhDtwaypRavkiZjvxOnKp7bsW?usp=sharing)
 
+=======
+# Telegram_bot
+>>>>>>> baa1b78e5999f49b68fb02a6e4cbe622500917b3
